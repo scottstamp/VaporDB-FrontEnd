@@ -4,7 +4,7 @@ Welcome redditors and IRC'ers. We're excited to start a new _opensource_ project
 
 VaporDB will be a place for reviews of Atty's, APV's, and eventually any product that is physical hardware associated with vaping. You won't buy from VaporDB. Our product is honest, community driven reviews with no angle. You'll be able to vote on people's reviews as well. Ones which you found to be helpful or unhelpful.
 
-Lastly, we need your support. We don't need your money - just your time and innovative thinking. Help us design the functionality behind VaporDB v1. Simply join in editing on the [Issues](http://github.com/VaporDB/VaporDB-FrontEnd/Issues) page.
+Lastly, we need your support. We don't need your money - just your time and innovative thinking. Help us design the functionality behind VaporDB v1. Simply join in editing on the [Issues](https://github.com/VaporDB/VaporDB-FrontEnd/issues) page.
 
 ## Before you start adding features
 
